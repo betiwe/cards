@@ -1,0 +1,34 @@
+.card {
+	background-color: aliceblue;
+	border: 3px black;
+	border-radius: 25px;
+	margin-left: 25px;
+	display: inline-block;
+}
+
+.card-title, .card-text {
+	color: black;
+	
+}
+
+.card-title {
+	font-size: 25px;
+	margin: 0px;
+}
+
+.card-text {
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+
+.btn {
+	color: white;
+	background-color: darkslateblue;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.card-img-top {
+	width: 400px;
+	border-radius: 5px;
+}
